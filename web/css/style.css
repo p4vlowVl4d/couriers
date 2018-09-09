@@ -1,0 +1,21 @@
+.warning-text{
+	padding: 10px 4px;
+	background: #f2dede;
+	border-radius: 5px;
+}
+.message-error{
+	display:none;
+	padding: 10px 6px;
+	background: #f2dede;
+	border-radius: 5px;
+}
+.message{
+	display:none;
+	padding: 10px 6px;
+	background: #d9edf7;
+	border-radius: 5px;
+}
+.message, .message-error{
+	margin-left: 2%;
+	width: 300px;
+}
